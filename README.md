@@ -1,4 +1,3 @@
 # Laboratorio #03
 
-- Xavier MÈrida 1166726
-- Juli·n Barrios 1216726
+- Juli√°n Barrios 1216726
