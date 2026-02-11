@@ -2,6 +2,8 @@
 Console.WriteLine("==========================================");
 Console.WriteLine("Laboratorio # 03");
 // Ingresar aquí nombre y carnet del dueño del repositorio
+Console.WriteLine("Julián Barrios");
+Console.WriteLine("1216726");
 
 // Ingresar aquí nombre y carnet del colaborador:
 
